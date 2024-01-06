@@ -8,14 +8,16 @@ body {
     width: 1600px;
     height: 808px;
     display: flex;
-    justify-content: space-around;
-    /* background-size: cover; */
-    
+    justify-content: end;
+    background-size: cover;
+
 }
 
-.text{
+.text {
+    margin-right: 230px;
     text-align: right;
-    /* margin-right: 0; */
+    padding: ;
+    width: 1150px;
 }
 
 .big-text {
@@ -23,22 +25,27 @@ body {
     font-size: 65px;
     text-align: right;
     font-weight: 700;
-    width: 525px;
+    margin-top: 216px;
+    margin-left: 500px;
+    margin-bottom: 0;
+    /* width: 525px; */
 }
 
 .para-text {
     color: #FFF;
     text-align: right;
     font-size: 16px;
-    font-weight: 400;
+    margin-left: 700px;
+    margin-top: 24px;
     line-height: 26px;
-    width: 494px;
-    }
-
-.btn{
-    text-align: right;
-    
+    margin-bottom: 0;
 }
+
+.btn {
+    text-align: right;
+
+}
+
 .header-btn {
     width: 160px;
     height: 64px;
@@ -48,7 +55,6 @@ body {
     font-weight: 600;
     border-radius: 5px;
     border: none;
+    margin-top: 32px;
     background: #FFF;
-    /* font na dile font kaj kore na. */
-    padding: 20px ;
 }
