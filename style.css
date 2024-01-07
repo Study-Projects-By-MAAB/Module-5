@@ -304,6 +304,10 @@ footer {
     margin-bottom: 0px;
 }
 
+.in-email::placeholder {
+    color: white;
+}
+
 .subs-btn {
     display: block;
     margin-top: 16px;
