@@ -40,10 +40,7 @@ body {
     margin-bottom: 0;
 }
 
-.btn {
-    text-align: right;
 
-}
 
 .header-btn {
     width: 160px;
@@ -203,4 +200,129 @@ body {
     margin-top: 0px;
     margin-left: 64px;
     background: #FFF;
+}
+
+.f-head {
+    color: #F8F8F8;
+    font-family: Work Sans;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    color: #F8F8F8;
+}
+
+
+/* footer section  */
+
+footer {
+    background-color: #151414;
+    /* gap: 100px; */
+    width: 1600px;
+    height: 577px;
+    margin-top: 130px;
+}
+
+.footer-column {
+    display: flex;
+}
+
+
+/* footer column 1 section  */
+
+.footer-col1 {
+    color: #FFF;
+    font-size: 16px;
+    line-height: 26px;
+    margin-top: 130px;
+    margin-left: 230px;
+    margin-right: 0px;
+}
+
+.f-head {
+    margin-bottom: 0px;
+    /* color: #F8F8F8;
+    font-family: Work Sans;
+    font-size: 45px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal; */
+}
+
+.footer-p {
+    width: 485px;
+    margin-top: 16px;
+    margin-bottom: 0;
+}
+
+.footer-email {
+    margin-top: 24px;
+    margin-bottom: 0;
+}
+
+.footer-phone {
+    margin-top: 16px;
+    margin-bottom: 0;
+}
+
+.social-icon {
+    margin-top: 32px;
+}
+
+.icon {
+    padding: 0 5px;
+}
+
+
+/* footer column 2 section  */
+
+.footer-col2 {
+
+    margin-top: 130px;
+    margin-left: 200px;
+
+}
+
+.f-head2 {
+    color: #FFF;
+    font-size: 25px;
+    line-height: normal;
+    margin-bottom: 0;
+    /* margin-top: 130px; */
+}
+
+.in-email {
+    width: 325px;
+    height: 64px;
+    border-radius: 8px;
+    border: 1px solid #FFF;
+    background-color: #151414;
+    font-size: 18px;
+    font-weight: 400;
+    padding: 0 20px;
+    margin-top: 31px;
+    margin-bottom: 0px;
+}
+
+.subs-btn {
+    display: block;
+    margin-top: 16px;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 600;
+    width: 170.106px;
+    height: 64px;
+    border: 0;
+    border-radius: 8px;
+    background: #005FAC;
+}
+
+a{
+    text-decoration: none;
+}
+
+
+
+.small-f {
+    color: white;
 }
